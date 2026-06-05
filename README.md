@@ -22,4 +22,4 @@ This bot helps you remember tasks. Built with Python as a training project.
 ## Deployment
 Deployed on Render (free tier) using a webhook to stay online 24/7.
 
-Made by Moein Samadi as a training project.
+Made by `Moein Samadi` as a training project.
