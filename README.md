@@ -1,15 +1,16 @@
-# RemindMeBot – Telegram 
+# Persian ReminderBot – Telegram 
 
 ---
 
-This bot helps you remember tasks. Built with Python as a learning project.
+This bot helps you remember tasks. Built with Python as a training project.
 
 ## What it can do
 - Add tasks with `/addtask`
-- Set reminders like `/addtask Buy milk ; 2026-12-24 18:00`
+- Set reminders by asking user
 - List all pending tasks with `/listtasks`
-- Get a reminder message at the exact time you set
+- Get two reminder messages; one five minutes before and another at the exact time you set
 - Mark tasks as done or delete them via buttons
+- Ability to track your tasks
 
 ## How to run it yourself
 1. Clone the repo
@@ -21,4 +22,4 @@ This bot helps you remember tasks. Built with Python as a learning project.
 ## Deployment
 Deployed on Render (free tier) using a webhook to stay online 24/7.
 
-Made with ❤️ and lots of curiosity.
+Made by Moein Samadi as a training project.
